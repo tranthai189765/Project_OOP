@@ -1,0 +1,3 @@
+username: @json00906
+password: det@i1OOP
+email: json00906@gmail.com
