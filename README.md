@@ -49,7 +49,7 @@ A Java-based system for collecting and analyzing **KOL (Key Opinion Leader)** da
 
 **Trần Quốc Thái**  
 Student @ Hanoi University of Science and Technology (HUST)  
-🔗 GitHub: [@HaiAu2501](https://github.com/HaiAu2501)
+🔗 GitHub: [@HaiAu2501](https://github.com/tranthai189765)
 
 ---
 
